@@ -14,7 +14,7 @@ pip install -r requrements
 
 
 ## Usage
-
+Edit line 7 of main.py with your discord token.
 ```py
 main.py
 ```
